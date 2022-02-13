@@ -55,8 +55,6 @@ function SoundBoard:soundList()
         elements = Config.Sounds
     }, function(data, menu)
         TriggerServerEvent('InteractSound_SV:PlayWithinDistance', self.distance, data.current.sound, 0.4)
-
-
     end, function(data, menu)
         menu.close()
     end)
