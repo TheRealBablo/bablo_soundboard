@@ -1,8 +1,8 @@
 # bablo_soundboard
-simpelt soundboard script 
+simple soundboard script
 
-se till att använda min modifierade interact-sound för att alla functioner ska funka
+make sure to use my modified interact-sound for all functions to work
 
-Hur funkar det du lägg in en label å ljud namnet i configen sen lägger du bara in ljudet i interact-sound/client/html/sounds se till att ljudet är en ogg fil
+How does it work you put a label on the sound name in the config then you just put the sound in the resource interact-sound/client/html/sounds make sure the sound is an ogg file
 
 Preview: https://streamable.com/09j5m2
